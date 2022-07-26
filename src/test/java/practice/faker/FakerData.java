@@ -29,6 +29,7 @@ public class FakerData {
 		return format.format(date);
 		
 	}
+	// this will give us the phone number method
 	
 	public static String getPhoneNumber() {
 		Faker faker = new Faker();
