@@ -1,4 +1,4 @@
-@End2End 
+@End2EndTest 
  Feature: api end to end test
 
   Scenario: Generate token create new account add address, phone number,and car to this account and update the car make
